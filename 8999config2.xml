@@ -2,8 +2,8 @@
 <config>
 	<DEFAULT>
 		<file type=3 local="files/tss_base.dat" name="tss_base.dat" hash_type=1 probability="100" scale="1">
-			<A hash="00000000"/>
-			<B hash="00000000"/>
+			<A hash="6079C70E"/>
+			<B hash="6C447D36"/>
 		</file>
 	</DEFAULT>
 </config>
