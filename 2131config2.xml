@@ -1,9 +1,124 @@
 <?xml version="1" encoding="utf-8"?>
 <config>
 	<DEFAULT>
-		<file type=3 local="files/comm.dat" name="comm.dat" hash_type=1 probability="100" scale="1">
-			<A hash="F55C2156"/>
-			<B hash="8607A2DF"/>
+		<file type=3 local="files/comm.dat" name="comm.dat" md5_type=1 probability="100" scale="1">
+			<A md5="F55C2156"/>
+			<B md5="8607A2DF"/>
 		</file>
 	</DEFAULT>
+	<GAME md5_type=1 md5="A8481F19">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="88EF835E"/>
+			<B md5="115F0CFD"/>
+		</file>
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="002259AF"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="D7DAD608">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="16A90812"/>
+			<B md5="AE1C84A8"/>
+		</file>
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="5F1E05E7"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="BC636B46">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="D0CA7719"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="64F25FC9">
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="5F1E05E7"/>
+		</file>
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="32788084"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="A51C3EF4">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="E49AF4B1"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="D3012C8F">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="CA34D6ED"/>
+			<B md5="EF6869F3"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="BA7F4C80">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="6E2F9126"/>
+			<B md5="0B8B1F6B"/>
+		</file>
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="5F1E05E7"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="DB7BE971">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="ED60B2A4"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="95D6CB39">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="2AD6FF0F"/>
+			<B md5="F7FEDC21"/>
+		</file>
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="3688A31C"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="0211F467">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="DFAE9EEF"/>
+			<B md5="9701EE43"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="D5BB16D4">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="F44BE5D8"/>
+			<B md5="C1A0E226"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="B649EBCD">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="F9696FF3"/>
+			<B md5="40614640"/>
+		</file>
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" md5_type=1 probability="100" scale="1">
+			<A md5="002259AF"/>
+			<B md5="3688A31C"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="1C786A62">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="B0CB3A4A"/>
+			<B md5="C9AB4EDF"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="D2248A8F">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="F4DCED94"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="7A0392C7">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="B5589C60"/>
+			<B md5="7AC74F18"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="BCAF4C68">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="2B2E23B3"/>
+		</file>
+	</GAME>
+	<GAME md5_type=1 md5="452D7225">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" md5_type=1 probability="100" scale="1">
+			<A md5="C66B8806"/>
+			<B md5="C8FFE57F"/>
+		</file>
+	</GAME>
 </config>
