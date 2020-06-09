@@ -11,7 +11,7 @@
 			<A hash="88EF835E"/>
 			<B hash="115F0CFD"/>
 		</file>
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/tss_mua.zip" name="tss_mua.zip" hash_type=1 probability="100" scale="1">
 			<A hash="002259AF"/>
 		</file>
 	</GAME>
@@ -20,7 +20,7 @@
 			<A hash="16A90812"/>
 			<B hash="AE1C84A8"/>
 		</file>
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/tss_mua.zip" name="tss_mua.zip" hash_type=1 probability="100" scale="1">
 			<A hash="5F1E05E7"/>
 		</file>
 	</GAME>
@@ -30,7 +30,7 @@
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="64F25FC9">
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/tss_mua.zip" name="tss_mua.zip" hash_type=1 probability="100" scale="1">
 			<A hash="5F1E05E7"/>
 		</file>
 		<file type=2 local="files/mrpcs.dat" name="mrpcs.dat" hash_type=1 probability="100" scale="1">
@@ -67,7 +67,7 @@
 			<A hash="2AD6FF0F"/>
 			<B hash="F7FEDC21"/>
 		</file>
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/tss_mua.zip" name="tss_mua.zip" hash_type=1 probability="100" scale="1">
 			<A hash="3688A31C"/>
 		</file>
 	</GAME>
@@ -88,7 +88,7 @@
 			<A hash="F9696FF3"/>
 			<B hash="40614640"/>
 		</file>
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/tss_mua.zip" name="tss_mua.zip" hash_type=1 probability="100" scale="1">
 			<A hash="002259AF"/>
 			<B hash="3688A31C"/>
 		</file>
