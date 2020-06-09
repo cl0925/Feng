@@ -39,22 +39,22 @@
 	</game>
 	<game ver="8060" code_size="70418432">
 		<file name="mrpcs.dat" gray="100" a="16A90812" b="AE1C84A8"/>
-		<file name="tssmua.zip" gray="100" a="5F1E05E7" b="00000000"/>
+		<file name="tss_mua.zip" gray="100" a="5F1E05E7" b="00000000"/>
 	</game>
 	<game ver="8151" code_size="73138176">
 		<file name="mrpcs.dat" gray="100" a="6E2F9126" b="0B8B1F6B"/>
-		<file name="tssmua.zip" gray="100" a="5F1E05E7" b="00000000"/>
+		<file name="tss_mua.zip" gray="100" a="5F1E05E7" b="00000000"/>
 	</game>
 	<game ver="8230" code_size="75350016">
 		<file name="mrpcs.dat" gray="100" a="2AD6FF0F" b="F7FEDC21"/>
-		<file name="tssmua.zip" gray="100" a="3688A31C" b="00000000"/>
+		<file name="tss_mua.zip" gray="100" a="3688A31C" b="00000000"/>
 	</game>
 	<game ver="8351" code_size="86097920">
 		<file name="mrpcs.dat" gray="100" a="F9696FF3" b="40614640"/>
-		<file name="tssmua.zip" gray="100" a="002259AF" b="3688A31C"/>
+		<file name="tss_mua.zip" gray="100" a="002259AF" b="3688A31C"/>
 	</game>
 	<game ver="8500" code_size="89587712">
 		<file name="mrpcs.dat" gray="100" a="88EF835E" b="115F0CFD"/>
-		<file name="tssmua.zip" gray="100" a="002259AF" b="00000000"/>
+		<file name="tss_mua.zip" gray="100" a="002259AF" b="00000000"/>
 	</game>
 </config>
