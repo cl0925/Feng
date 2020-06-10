@@ -1,7 +1,7 @@
 <?xml version="1" encoding="utf-8"?>
 <config>
 	<DEFAULT>
-		<file type=3 local="files/comm.dat" name="comm.dat" hash_type=1 probability="100" scale="1">
+		<file type=3 local="files/comm.dat" name="comm.dat" hash_type=1 probability="0" scale="0">
 			<A hash="F55C2156"/>
 			<B hash="8607A2DF"/>
 		</file>
