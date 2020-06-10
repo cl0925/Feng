@@ -1,0 +1,19 @@
+<?xml version="1" encoding="utf-8"?>
+<config>
+	<DEFAULT>
+		<file type=3 local="files/comm.dat" name="comm.dat" hash_type=1 probability="100" scale="1">
+			<A hash="5C6FDB22"/>
+			<B hash="AE9B815B"/>
+		</file>
+	</DEFAULT>
+	<GAME hash_type=1 hash="34BD0202">
+		<file type=2 local="files/mrpcs.dat" name="mrpcs.dat" hash_type=1 probability="100" scale="1">
+			<A hash="5E63ABF9"/>
+		</file>
+	</GAME>
+	<GAME hash_type=1 hash="2E87A837">
+		<file type=2 local="files/mrpcs.dat" name="mrpcs.dat" hash_type=1 probability="100" scale="1">
+			<A hash="81AFF355"/>
+		</file>
+	</GAME>
+</config>
