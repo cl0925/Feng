@@ -7,10 +7,10 @@
 		</file>
 	</DEFAULT>
 	<GAME hash_type=1 hash="32602776">
-		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="0" scale="1">
+		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="30" scale="1">
 			<A hash="002259AF"/>
 		</file>
-		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="0" scale="1">
+		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="30" scale="1">
 			<A hash="41CE3478"/>
 		</file>
 	</GAME>
