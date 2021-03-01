@@ -8,48 +8,34 @@
 	</DEFAULT>
 	<GAME hash_type=1 hash="32602776">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="68E6D796"/>
-			<B hash="36BC2A81"/>
 		</file>
 		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
-			<A hash="355B3590"/>
-			<B hash="9B711ABD"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="A8481F19">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="88EF835E"/>
-			<B hash="115F0CFD"/>
 		</file>
 		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
-			<A hash="002259AF"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="D7DAD608">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="16A90812"/>
-			<B hash="AE1C84A8"/>
 		</file>
 		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
-			<A hash="5F1E05E7"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="BC636B46">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="D0CA7719"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="64F25FC9">
 		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
-			<A hash="5F1E05E7"/>
 		</file>
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="32788084"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="A51C3EF4">
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="E49AF4B1"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="D3012C8F">
@@ -93,10 +79,8 @@
 	</GAME>
 	<GAME hash_type=1 hash="E17FF74E">
 		<file type=3 local="files/tssmua.zip" name="tssmua.zip" hash_type=1 probability="100" scale="1">
-			<A hash="1C8710C6"/>
 		</file>
 		<file type=2 local="files/mrpcs.data" name="mrpcs.data" hash_type=1 probability="100" scale="1">
-			<A hash="1EEE921C"/>
 		</file>
 	</GAME>
 	<GAME hash_type=1 hash="0211F467">
